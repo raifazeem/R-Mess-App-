@@ -1,0 +1,5 @@
+{
+  "name": "R-Mess",
+  "description": "A comprehensive Mess Management System for admins, students, and cooks to handle attendance, billing, menus, and financial tracking with role-based access and detailed history logs.",
+  "requestFramePermissions": []
+}
